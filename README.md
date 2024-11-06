@@ -16,3 +16,10 @@ The primary source of Data used here is the Capstone data set downloaded from th
 - Data Querying: SQL Database
 - Data Visualisation: Microsoft Power BI
 - Portfolio Building: Github
+
+### Data Cleaning and Preparation
+
+In the initial phase of the data cleaning and peration, we performed the following action:
+1. Data loading and inspection
+2. Removal of duplicate rows
+3. Data cleaning and formatting
