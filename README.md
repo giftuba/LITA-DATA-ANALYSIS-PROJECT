@@ -1,3 +1,3 @@
 # LITA-DATA-ANALYSIS-PROJECT
 
-## Project A:Sales Performance Analysis for a Retail Store
+## Project 1 Title : Sales Performance Analysis for a Retail Store
