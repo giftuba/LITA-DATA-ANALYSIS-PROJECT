@@ -23,3 +23,6 @@ In the initial phase of the data cleaning and peration, we performed the followi
 1. Data loading and inspection
 2. Removal of duplicate rows
 3. Data cleaning and formatting
+
+### Exploratory Data Analysis (EDA)
+EDA involved the 
