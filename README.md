@@ -25,4 +25,8 @@ In the initial phase of the data cleaning and peration, we performed the followi
 3. Data cleaning and formatting
 
 ### Exploratory Data Analysis (EDA)
-EDA involved the 
+
+EDA involved the performance of initial analysis to understand the data distribution, identify patterns, and detect anomalies. It also involved the exploring of Data to answer some questions about the Data such as:
+- What is the top-selling product
+- What is the monthly sales trend
+- Which region has the highest performance
