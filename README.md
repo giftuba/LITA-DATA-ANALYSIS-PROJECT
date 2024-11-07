@@ -25,3 +25,6 @@ EDA involved the performance of initial analysis to understand the data distribu
 - What is the top-selling product
 - What is the monthly sales trend
 - Which region has the highest performance
+
+### Key Analysis
+
